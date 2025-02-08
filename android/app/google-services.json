@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589175737089",
+    "project_id": "snipe-b9133",
+    "storage_bucket": "snipe-b9133.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589175737089:android:cd22f2fb1ccbcd64e8e900",
+        "android_client_info": {
+          "package_name": "com.example.snipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvZLiLzSCZGnGSwe37-svvm_HALxetAdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

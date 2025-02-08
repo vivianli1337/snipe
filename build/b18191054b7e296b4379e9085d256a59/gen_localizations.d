@@ -1,0 +1,1 @@
+ /Users/evelynxiao/Desktop/projects/Snipe/snipe/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/evelynxiao/Desktop/projects/Snipe/snipe/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/evelynxiao/Desktop/projects/Snipe/snipe/l10n.yaml /Users/evelynxiao/Desktop/projects/Snipe/snipe/lib/src/localization/app_en.arb
